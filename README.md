@@ -36,3 +36,8 @@ You can initialize this repository with code from a Subversion, Mercurial, or TF
 - this will be highlighted in red
 ```
 ***
+## Checkboxes
+[x] Item 1
+[x] Item 2
+[ ] Item 3
+[ ] Item 4
